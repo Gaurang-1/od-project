@@ -1,0 +1,30 @@
+h3{
+    background-color: #ffffff;
+    margin:0px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size:xx-large;
+    color: black;
+}
+
+h3:hover{
+    background-color: black;
+    color: white;
+}
+
+body{
+    background-size: cover;
+}
+
+button{
+    margin-left: 10px ;
+    font-family: 'Dancing Script', cursive;
+    font-size:30px;
+    height:30px;
+    width:60px;
+    text-align: center;
+}
+canvas{
+    box-shadow: 10px 10px 10px rgb(152, 178, 247);
+    border-radius: 10px;
+}

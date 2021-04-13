@@ -1,0 +1,17 @@
+body{
+    background-size: 100%;
+}
+
+.heading{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    color: black;
+}
+
+a{
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    color:black;
+    background-color: white;
+    width:100px;
+}
