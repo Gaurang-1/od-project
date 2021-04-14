@@ -14,7 +14,7 @@ h3:hover{
 
 body{
     background-size: cover;
-    text-align: center;
+    text-align:center;
 }
 
 button{
@@ -24,6 +24,7 @@ button{
     height:30px;
     width:60px;
     text-align: center;
+    color:white;
 }
 canvas{
     box-shadow: 10px 10px 10px rgb(152, 178, 247);

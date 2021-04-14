@@ -3,7 +3,7 @@ status="";
 objects=[];
 
 function preload(){
-    img=loadImage('mi.jpg');
+    img=loadImage('bottle.jpg');
 }
 
 function setup(){
